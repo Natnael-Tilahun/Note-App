@@ -165,6 +165,7 @@ button:focus {
   border-bottom-left-radius: 1px;
   border-bottom-right-radius: 1px;
   margin-top: 4px;
+  padding-right: 5px;
 }
 
 .gg-trash::after,
